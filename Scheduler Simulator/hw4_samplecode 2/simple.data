@@ -1,0 +1,3 @@
+process 1 arrive 2 estTime 5
+process 2 arrive 2 estTime 5
+process 3 arrive 2 estTime 5

@@ -1,0 +1,19 @@
+process 1 arrive 1 estTime 2
+process 3 arrive 3 estTime 4
+process 4 arrive 3 estTime 5
+process 5 arrive 3 estTime 4 block 2 10
+process 6 arrive 3 estTime 10
+process 7 arrive 3 estTime 20
+process 8 arrive 3 estTime 4
+process 9 arrive 4 estTime 10
+process 10 arrive 4 estTime 4
+process 11 arrive 6 estTime 20 block 12 10
+process 12 arrive 6 estTime 10
+process 13 arrive 6 estTime 4
+process 14 arrive 6 estTime 20
+process 15 arrive 6 estTime 4
+process 16 arrive 7 estTime 10
+process 17 arrive 8 estTime 4
+process 18 arrive 10 estTime 4 block 2 10
+process 19 arrive 10 estTime 10
+process 20 arrive 10 estTime 4
