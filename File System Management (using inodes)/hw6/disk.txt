@@ -1,0 +1,2048 @@
+---------- BLOCK #  0 ---------
+Blocks Assigned: 1             
+      File Size: 192           
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 1             
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr: 0             
+---------- BLOCK #  1 ---------
+jfk_file : 2                   
+gb_addrs : 32                  
+myfile_3 : 37                  
+jfk_inag : 48                  
+jfk_inag : 66                  
+myfile_6 : 85                  
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #  2 ---------
+Blocks Assigned: 26            
+      File Size: 12042         
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 3             
+Block Address 1: 4             
+Block Address 2: 5             
+Block Address 3: 6             
+Block Address 4: 7             
+Block Address 5: 8             
+Block Address 6: 9             
+Block Address 7: 10            
+Next iNode Addr: 11            
+---------- BLOCK #  3 ---------
+President Pitzer, Mr. Vice Pres
+ident, Governor, Congressman Th
+omas, Senator Wiley, and Congre
+ssman Miller, Mr. Webb, Mr. Bel
+l, scientists, distinguished gu
+ests, and ladies and gentlemen:
+I appreciate your president hav
+ing made me an honorary visitin
+g professor, and I will assure 
+you that my first lecture will 
+be very brief.I am delighted to
+ be here, and I'm particularly 
+delighted to be here on this oc
+casion.We meet at a college not
+ed for knowledge, in a city not
+---------- BLOCK #  4 ---------
+ed for progress, in a State not
+ed for strength, and we stand i
+n need of all three, for we mee
+t in an hour of change and chal
+lenge, in a decade of hope and 
+fear, in an age of both knowled
+ge and ignorance. The greater o
+ur knowledge increases, the gre
+ater our ignorance unfolds.Desp
+ite the striking fact that most
+ of the scientists that the wor
+ld has ever known are alive and
+ working today, despite the fac
+t that this Nations own scienti
+fic manpower is doubling every 
+---------- BLOCK #  5 ---------
+12 years in a rate of growth mo
+re than three times that of our
+ population as a whole, despite
+ that, the vast stretches of th
+e unknown and the unanswered an
+d the unfinished still far outs
+trip our collective comprehensi
+on.No man can fully grasp how f
+ar and how fast we have come, b
+ut condense, if you will, the 5
+0,000 years of mans recorded hi
+story in a time span of but a h
+alf-century. Stated in these te
+rms, we know very little about 
+the first 40 years, except at t
+---------- BLOCK #  6 ---------
+he end of them advanced man had
+ learned to use the skins of an
+imals to cover them. Then about
+ 10 years ago, under this stand
+ard, man emerged from his caves
+ to construct other kinds of sh
+elter. Only five years ago man 
+learned to write and use a cart
+ with wheels. Christianity bega
+n less than two years ago. The 
+printing press came this year, 
+and then less than two months a
+go, during this whole 50-year s
+pan of human history, the steam
+ engine provided a new source o
+---------- BLOCK #  7 ---------
+f power.Newton explored the mea
+ning of gravity. Last month ele
+ctric lights and telephones and
+ automobiles and airplanes beca
+me available. Only last week di
+d we develop penicillin and tel
+evision and nuclear power, and 
+now if America's new spacecraft
+ succeeds in reaching Venus, we
+ will have literally reached th
+e stars before midnight tonight
+.This is a breathtaking pace, a
+nd such a pace cannot help but 
+create new ills as it dispels o
+ld, new ignorance, new problems
+---------- BLOCK #  8 ---------
+, new dangers. Surely the openi
+ng vistas of space promise high
+ costs and hardships, as well a
+s high reward.So it is not surp
+rising that some would have us 
+stay where we are a little long
+er to rest, to wait. But this c
+ity of Houston, this State of T
+exas, this country of the Unite
+d States was not built by those
+ who waited and rested and wish
+ed to look behind them. This co
+untry was conquered by those wh
+o moved forward--and so will sp
+ace.William Bradford, speaking 
+---------- BLOCK #  9 ---------
+in 1630 of the founding of the 
+Plymouth Bay Colony, said that 
+all great and honorable actions
+ are accompanied with great dif
+ficulties, and both must be ent
+erprised and overcome with answ
+erable courage.If this capsule 
+history of our progress teaches
+ us anything, it is that man, i
+n his quest for knowledge and p
+rogress, is determined and cann
+ot be deterred. The exploration
+ of space will go ahead, whethe
+r we join in it or not, and it 
+is one of the great adventures 
+---------- BLOCK # 10 ---------
+of all time, and no nation whic
+h expects to be the leader of o
+ther nations can expect to stay
+ behind in the race for space.T
+hose who came before us made ce
+rtain that this country rode th
+e first waves of the industrial
+ revolutions, the first waves o
+f modern invention, and the fir
+st wave of nuclear power, and t
+his generation does not intend 
+to founder in the backwash of t
+he coming age of space. We mean
+ to be a part of it--we mean to
+ lead it. For the eyes of the w
+---------- BLOCK # 11 ---------
+Blocks Assigned: 8             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 12            
+Block Address 1: 13            
+Block Address 2: 14            
+Block Address 3: 15            
+Block Address 4: 16            
+Block Address 5: 17            
+Block Address 6: 18            
+Block Address 7: 19            
+Next iNode Addr: 20            
+---------- BLOCK # 12 ---------
+orld now look into space, to th
+e moon and to the planets beyon
+d, and we have vowed that we sh
+all not see it governed by a ho
+stile flag of conquest, but by 
+a banner of freedom and peace. 
+We have vowed that we shall not
+ see space filled with weapons 
+of mass destruction, but with i
+nstruments of knowledge and und
+erstanding.Yet the vows of this
+ Nation can only be fulfilled i
+f we in this Nation are first, 
+and, therefore, we intend to be
+ first. In short, our leadershi
+---------- BLOCK # 13 ---------
+p in science and in industry, o
+ur hopes for peace and security
+, our obligations to ourselves 
+as well as others, all require 
+us to make this effort, to solv
+e these mysteries, to solve the
+m for the good of all men, and 
+to become the world's leading s
+pace-faring nation.We set sail 
+on this new sea because there i
+s new knowledge to be gained, a
+nd new rights to be won, and th
+ey must be won and used for the
+ progress of all people. For sp
+ace science, like nuclear scien
+---------- BLOCK # 14 ---------
+ce and all technology, has no c
+onscience of its own. Whether i
+t will become a force for good 
+or ill depends on man, and only
+ if the United States occupies 
+a position of pre-eminence can 
+we help decide whether this new
+ ocean will be a sea of peace o
+r a new terrifying theater of w
+ar. I do not say the we should 
+or will go unprotected against 
+the hostile misuse of space any
+ more than we go unprotected ag
+ainst the hostile use of land o
+r sea, but I do say that space 
+---------- BLOCK # 15 ---------
+can be explored and mastered wi
+thout feeding the fires of war,
+ without repeating the mistakes
+ that man has made in extending
+ his writ around this globe of 
+ours.There is no strife, no pre
+judice, no national conflict in
+ outer space as yet. Its hazard
+s are hostile to us all. Its co
+nquest deserves the best of all
+ mankind, and its opportunity f
+or peaceful cooperation many ne
+ver come again. But why, some s
+ay, the moon? Why choose this a
+s our goal? And they may well a
+---------- BLOCK # 16 ---------
+sk why climb the highest mounta
+in? Why, 35 years ago, fly the 
+Atlantic? Why does Rice play Te
+xas?We choose to go to the moon
+. We choose to go to the moon i
+n this decade and do the other 
+things, not because they are ea
+sy, but because they are hard, 
+because that goal will serve to
+ organize and measure the best 
+of our energies and skills, bec
+ause that challenge is one that
+ we are willing to accept, one 
+we are unwilling to postpone, a
+nd one which we intend to win, 
+---------- BLOCK # 17 ---------
+and the others, too.It is for t
+hese reasons that I regard the 
+decision last year to shift our
+ efforts in space from low to h
+igh gear as among the most impo
+rtant decisions that will be ma
+de during my incumbency in the 
+office of the Presidency.In the
+ last 24 hours we have seen fac
+ilities now being created for t
+he greatest and most complex ex
+ploration in man's history. We 
+have felt the ground shake and 
+the air shattered by the testin
+g of a Saturn C-1 booster rocke
+---------- BLOCK # 18 ---------
+t, many times as powerful as th
+e Atlas which launched John Gle
+nn, generating power equivalent
+ to 10,000 automobiles with the
+ir accelerators on the floor. W
+e have seen the site where the 
+F-1 rocket engines, each one as
+ powerful as all eight engines 
+of the Saturn combined, will be
+ clustered together to make the
+ advanced Saturn missile, assem
+bled in a new building to be bu
+ilt at Cape Canaveral as tall a
+s a 48 story structure, as wide
+ as a city block, and as long a
+---------- BLOCK # 19 ---------
+s two lengths of this field.Wit
+hin these last 19 months at lea
+st 45 satellites have circled t
+he earth. Some 40 of them were 
+"made in the United States of A
+merica" and they were far more 
+sophisticated and supplied far 
+more knowledge to the people of
+ the world than those of the So
+viet Union.The Mariner spacecra
+ft now on its way to Venus is t
+he most intricate instrument in
+ the history of space science. 
+The accuracy of that shot is co
+mparable to firing a missile fr
+---------- BLOCK # 20 ---------
+Blocks Assigned: 8             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 21            
+Block Address 1: 22            
+Block Address 2: 23            
+Block Address 3: 24            
+Block Address 4: 25            
+Block Address 5: 26            
+Block Address 6: 27            
+Block Address 7: 28            
+Next iNode Addr: 29            
+---------- BLOCK # 21 ---------
+om Cape Canaveral and dropping 
+it in this stadium between the 
+the 40-yard lines.Transit satel
+lites are helping our ships at 
+sea to steer a safer course. Ti
+ros satellites have given us un
+precedented warnings of hurrica
+nes and storms, and will do the
+ same for forest fires and iceb
+ergs.We have had our failures, 
+but so have others, even if the
+y do not admit them. And they m
+ay be less public.To be sure, w
+e are behind, and will be behin
+d for some time in manned fligh
+---------- BLOCK # 22 ---------
+t. But we do not intend to stay
+ behind, and in this decade, we
+ shall make up and move ahead.T
+he growth of our science and ed
+ucation will be enriched by new
+ knowledge of our universe and 
+environment, by new techniques 
+of learning and mapping and obs
+ervation, by new tools and comp
+uters for industry, medicine, t
+he home as well as the school. 
+Technical institutions, such as
+ Rice, will reap the harvest of
+ these gains.And finally, the s
+pace effort itself, while still
+---------- BLOCK # 23 ---------
+ in its infancy, has already cr
+eated a great number of new com
+panies, and tens of thousands o
+f new jobs. Space and related i
+ndustries are generating new de
+mands in investment and skilled
+ personnel, and this city and t
+his State, and this region, wil
+l share greatly in this growth.
+ What was once the furthest out
+post on the old frontier of the
+ West will be the furthest outp
+ost on the new frontier of scie
+nce and space. Houston, your Ci
+ty of Houston, with its Manned 
+---------- BLOCK # 24 ---------
+Spacecraft Center, will become 
+the heart of a large scientific
+ and engineering community. Dur
+ing the next 5 years the Nation
+al Aeronautics and Space Admini
+stration expects to double the 
+number of scientists and engine
+ers in this area, to increase i
+ts outlays for salaries and exp
+enses to $60 million a year; to
+ invest some $200 million in pl
+ant and laboratory facilities; 
+and to direct or contract for n
+ew space efforts over $1 billio
+n from this Center in this City
+---------- BLOCK # 25 ---------
+.To be sure, all this costs us 
+all a good deal of money. This 
+years space budget is three tim
+es what it was in January 1961,
+ and it is greater than the spa
+ce budget of the previous eight
+ years combined. That budget no
+w stands at $5,400 million a ye
+ar--a staggering sum, though so
+mewhat less than we pay for cig
+arettes and cigars every year. 
+Space expenditures will soon ri
+se some more, from 40 cents per
+ person per week to more than 5
+0 cents a week for every man, w
+---------- BLOCK # 26 ---------
+oman and child in the United St
+ated, for we have given this pr
+ogram a high national priority-
+-even though I realize that thi
+s is in some measure an act of 
+faith and vision, for we do not
+ now know what benefits await u
+s.But if I were to say, my fell
+ow citizens, that we shall send
+ to the moon, 240,000 miles awa
+y from the control station in H
+ouston, a giant rocket more tha
+n 300 feet tall, the length of 
+this football field, made of ne
+w metal alloys, some of which h
+---------- BLOCK # 27 ---------
+ave not yet been invented, capa
+ble of standing heat and stress
+es several times more than have
+ ever been experienced, fitted 
+together with a precision bette
+r than the finest watch, carryi
+ng all the equipment needed for
+ propulsion, guidance, control,
+ communications, food and survi
+val, on an untried mission, to 
+an unknown celestial body, and 
+then return it safely to earth,
+ re-entering the atmosphere at 
+speeds of over 25,000 miles per
+ hour, causing heat about half 
+---------- BLOCK # 28 ---------
+that of the temperature of the 
+sun--almost as hot as it is her
+e today--and do all this, and d
+o it right, and do it first bef
+ore this decade is out--then we
+ must be bold.I'm the one who i
+s doing all the work, so we jus
+t want you to stay cool for a m
+inute. [laughter]However, I thi
+nk we're going to do it, and I 
+think that we must pay what nee
+ds to be paid. I don't think we
+ ought to waste any money, but 
+I think we ought to do the job.
+ And this will be done in the d
+---------- BLOCK # 29 ---------
+Blocks Assigned: 2             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 30            
+Block Address 1: 31            
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr:               
+---------- BLOCK # 30 ---------
+ecade of the sixties. It may be
+ done while some of you are sti
+ll here at school at this colle
+ge and university. It will be d
+one during the term of office o
+f some of the people who sit he
+re on this platform. But it wil
+l be done. And it will be done 
+before the end of this decade.I
+ am delighted that this univers
+ity is playing a part in puttin
+g a man on the moon as part of 
+a great national effort of the 
+United States of America.Many y
+ears ago the great British expl
+---------- BLOCK # 31 ---------
+orer George Mallory, who was to
+ die on Mount Everest, was aske
+d why did he want to climb it. 
+He said, "Because it is there."
+Well, space is there, and we're
+ going to climb it, and the moo
+n and the planets are there, an
+d new hopes for knowledge and p
+eace are there. And, therefore,
+ as we set sail we ask God's bl
+essing on the most hazardous an
+d dangerous and greatest advent
+ure on which man has ever embar
+ked.Thank you.                 
+                               
+---------- BLOCK # 32 ---------
+Blocks Assigned: 4             
+      File Size: 1470          
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 33            
+Block Address 1: 34            
+Block Address 2: 35            
+Block Address 3: 36            
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr: 0             
+---------- BLOCK # 33 ---------
+Four score and seven years ago 
+our fathers brought forth on th
+is continent, a new nation, con
+ceived in Liberty, and dedicate
+d to the proposition that all m
+en are created equal. Now we ar
+e engaged in a great civil war,
+ testing whether that nation, o
+r any nation so conceived and d
+edicated, can long endure. We a
+re met on a great battle-field 
+of that war. We have come to de
+dicate a portion of that field,
+ as a final resting place for t
+hose who here gave their lives 
+---------- BLOCK # 34 ---------
+that that nation might live. It
+ is altogether fitting and prop
+er that we should do this. But,
+ in a larger sense, we can not 
+dedicate -- we can not consecra
+te -- we can not hallow -- this
+ ground. The brave men, living 
+and dead, who struggled here, h
+ave consecrated it, far above o
+ur poor power to add or detract
+. The world will little note, n
+or long remember what we say he
+re, but it can never forget wha
+t they did here. It is for us t
+he living, rather, to be dedica
+---------- BLOCK # 35 ---------
+ted here to the unfinished work
+ which they who fought here hav
+e thus far so nobly advanced. I
+t is rather for us to be here d
+edicated to the great task rema
+ining before us -- that from th
+ese honored dead we take increa
+sed devotion to that cause for 
+which they gave the last full m
+easure of devotion -- that we h
+ere highly resolve that these d
+ead shall not have died in vain
+ -- that this nation, under God
+, shall have a new birth of fre
+edom -- and that government of 
+---------- BLOCK # 36 ---------
+the people, by the people, for 
+the people, shall not perish fr
+om the earth.                  
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 37 ---------
+Blocks Assigned: 9             
+      File Size: 4026          
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 38            
+Block Address 1: 39            
+Block Address 2: 40            
+Block Address 3: 41            
+Block Address 4: 42            
+Block Address 5: 43            
+Block Address 6: 44            
+Block Address 7: 45            
+Next iNode Addr: 46            
+---------- BLOCK # 38 ---------
+That this House welcomes the fo
+rmation of a Government represe
+nting the united and inflexible
+ resolve of the nation to prose
+cute the war with Germany to a 
+victorious conclusion.On Friday
+ evening last I received His Ma
+jesty's commission to form a ne
+w Administration. It as the evi
+dent wish and will of Parliamen
+t and the nation that this shou
+ld be conceived on the broadest
+ possible basis and that it sho
+uld include all parties, both t
+hose who supported the late Gov
+---------- BLOCK # 39 ---------
+ernment and also the parties of
+ the Opposition. I have complet
+ed the most important part of t
+his task. A War Cabinet has bee
+n formed of five Members, repre
+senting, with the Opposition Li
+berals, the unity of the nation
+. The three party Leaders have 
+agreed to serve, either in the 
+War Cabinet or in high executiv
+e office. The three Fighting Se
+rvices have been filled. It was
+ necessary that this should be 
+done in one single day, on acco
+unt of the extreme urgency and 
+---------- BLOCK # 40 ---------
+rigour of events. A number of o
+ther positions, key positions, 
+were filled yesterday, and I am
+ submitting a further list to H
+is Majesty to-night. I hope to 
+complete the appointment of the
+ principal Ministers during to-
+morrow. The appointment of the 
+other Ministers usually takes a
+ little longer, but I trust tha
+t, when Parliament meets again,
+ this part of my task will be c
+ompleted, and that the administ
+ration will be complete in all 
+respects. I considered it in th
+---------- BLOCK # 41 ---------
+e public interest to suggest th
+at the House should be summoned
+ to meet today. Mr. Speaker agr
+eed, and took the necessary ste
+ps, in accordance with the powe
+rs conferred upon him by the Re
+solution of the House. At the e
+nd of the proceedings today, th
+e Adjournment of the House will
+ be proposed until Tuesday, 21s
+t May, with, of course, provisi
+on for earlier meeting, if need
+ be. The business to be conside
+red during that week will be no
+tified to Members at the earlie
+---------- BLOCK # 42 ---------
+st opportunity. I now invite th
+e House, by the Motion which st
+ands in my name, to record its 
+approval of the steps taken and
+ to declare its confidence in t
+he new Government.To form an Ad
+ministration of this scale and 
+complexity is a serious underta
+king in itself, but it must be 
+remembered that we are in the p
+reliminary stage of one of the 
+greatest battles in history, th
+at we are in action at many oth
+er points in Norway and in Holl
+and, that we have to be prepare
+---------- BLOCK # 43 ---------
+d in the Mediterranean, that th
+e air battle is continuous and 
+that many preparations, such as
+ have been indicated by my hon.
+ Friend below the Gangway, have
+ to be made here at home. In th
+is crisis I hope I may be pardo
+ned if I do not address the Hou
+se at any length today. I hope 
+that any of my friends and coll
+eagues, or former colleagues, w
+ho are affected by the politica
+l reconstruction, will make all
+owance, all allowance, for any 
+lack of ceremony with which it 
+---------- BLOCK # 44 ---------
+has been necessary to act. I wo
+uld say to the House, as I said
+ to those who have joined this 
+government: "I have nothing to 
+offer but blood, toil, tears an
+d sweat."We have before us an o
+rdeal of the most grievous kind
+. We have before us many, many 
+long months of struggle and of 
+suffering. You ask, what is our
+ policy? I can say: It is to wa
+ge war, by sea, land and air, w
+ith all our might and with all 
+the strength that God can give 
+us; to wage war against a monst
+---------- BLOCK # 45 ---------
+rous tyranny, never surpassed i
+n the dark, lamentable catalogu
+e of human crime. That is our p
+olicy. You ask, what is our aim
+? I can answer in one word: It 
+is victory, victory at all cost
+s, victory in spite of all terr
+or, victory, however long and h
+ard the road may be; for withou
+t victory, there is no survival
+. Let that be realised; no surv
+ival for the British Empire, no
+ survival for all that the Brit
+ish Empire has stood for, no su
+rvival for the urge and impulse
+---------- BLOCK # 46 ---------
+Blocks Assigned: 1             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 47            
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr:               
+---------- BLOCK # 47 ---------
+ of the ages, that mankind will
+ move forward towards its goal.
+ But I take up my task with buo
+yancy and hope. I feel sure tha
+t our cause will not be suffere
+d to fail among men. At this ti
+me I feel entitled to claim the
+ aid of all, and I say, "come t
+hen, let us go forward together
+ with our united strength."    
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 48 ---------
+Blocks Assigned: 32            
+      File Size: 14722         
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 49            
+Block Address 1: 50            
+Block Address 2: 51            
+Block Address 3: 52            
+Block Address 4: 53            
+Block Address 5: 54            
+Block Address 6: 55            
+Block Address 7: 56            
+Next iNode Addr: 67            
+---------- BLOCK # 49 ---------
+We observe today not a victory 
+of party but a celebration of f
+reedom-- symbolizing an end as 
+well as a beginning--signifying
+ renewal as well as change. For
+ I have sworn before you and Al
+mighty God the same solemn oath
+ our forebears prescribed nearl
+y a century and three quarters 
+ago.The world is very different
+ now. For man holds in his mort
+al hands the power to abolish a
+ll forms of human poverty and a
+ll forms of human life. And yet
+ the same revolutionary beliefs
+---------- BLOCK # 50 ---------
+ for which our forebears fought
+ are still at issue around the 
+globe--the belief that the righ
+ts of man come not from the gen
+erosity of the state but from t
+he hand of God.We dare not forg
+et today that we are the heirs 
+of that first revolution. Let t
+he word go forth from this time
+ and place, to friend and foe a
+like, that the torch has been p
+assed to a new generation of Am
+ericans--born in this century, 
+tempered by war, disciplined by
+ a hard and bitter peace, proud
+---------- BLOCK # 51 ---------
+ of our ancient heritage--and u
+nwilling to witness or permit t
+he slow undoing of those human 
+rights to which this nation has
+ always been committed, and to 
+which we are committed today at
+ home and around the world.Let 
+every nation know, whether it w
+ishes us well or ill, that we s
+hall pay any price, bear any bu
+rden, meet any hardship, suppor
+t any friend, oppose any foe, t
+o assure the survival and the s
+uccess of liberty. This much we
+ pledge--and more.To those old 
+---------- BLOCK # 52 ---------
+allies whose cultural and spiri
+tual origins we share, we pledg
+e the loyalty of faithful frien
+ds. United, there is little we 
+cannot do in a host of cooperat
+ive ventures. Divided, there is
+ little we can do--for we dare 
+not meet a powerful challenge a
+t odds and split asunder.To tho
+se new states whom we welcome t
+o the ranks of the free, we ple
+dge our word that one form of c
+olonial control shall not have 
+passed away merely to be replac
+ed by a far more iron tyranny. 
+---------- BLOCK # 53 ---------
+We shall not always expect to f
+ind them supporting our view. B
+ut we shall always hope to find
+ them strongly supporting their
+ own freedom--and to remember t
+hat in the past, those who fool
+ishly sought power by riding th
+e back of the tiger ended up in
+side.To those peoples in the hu
+ts and villages of half the glo
+be struggling to break the bond
+s of mass misery, we pledge our
+ best efforts to help them help
+ themselves, for whatever perio
+d is required--not because the 
+---------- BLOCK # 54 ---------
+Communists may be doing it, not
+ because we seek their votes, b
+ut because it is right. If a fr
+ee society cannot help the many
+ who are poor, it cannot save t
+he few who are rich.To our sist
+er republics south of our borde
+r, we offer a special pledge --
+to convert our good words into 
+good deeds--in a new alliance f
+or progress--to assist free men
+ and free governments in castin
+g off the chains of poverty. Bu
+t this peaceful revolution of h
+ope cannot become the prey of h
+---------- BLOCK # 55 ---------
+ostile powers. Let all our neig
+hbors know that we shall join w
+ith them to oppose aggression o
+r subversion anywhere in the Am
+ericas. And let every other pow
+er know that this hemisphere in
+tends to remain the master of i
+ts own house.To that world asse
+mbly of sovereign states, the U
+nited Nations, our last best ho
+pe in an age where the instrume
+nts of war have far outpaced th
+e instruments of peace, we rene
+w our pledge of support--to pre
+vent it from becoming merely a 
+---------- BLOCK # 56 ---------
+forum for invective--to strengt
+hen its shield of the new and t
+he weak--and to enlarge the are
+a in which its writ may run.Fin
+ally, to those nations who woul
+d make themselves our adversary
+, we offer not a pledge but a r
+equest: that both sides begin a
+new the quest for peace, before
+ the dark powers of destruction
+ unleashed by science engulf al
+l humanity in planned or accide
+ntal self-destruction.We dare n
+ot tempt them with weakness. Fo
+r only when our arms are suffic
+---------- BLOCK # 57 ---------
+Blocks Assigned: 8             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 58            
+Block Address 1: 59            
+Block Address 2: 60            
+Block Address 3: 61            
+Block Address 4: 62            
+Block Address 5: 63            
+Block Address 6: 64            
+Block Address 7: 65            
+Next iNode Addr:               
+---------- BLOCK # 58 ---------
+ient beyond doubt can we be cer
+tain beyond doubt that they wil
+l never be employed.But neither
+ can two great and powerful gro
+ups of nations take comfort fro
+m our present course--both side
+s overburdened by the cost of m
+odern weapons, both rightly ala
+rmed by the steady spread of th
+e deadly atom, yet both racing 
+to alter that uncertain balance
+ of terror that stays the hand 
+of mankind's final war.So let u
+s begin anew--remembering on bo
+th sides that civility is not a
+---------- BLOCK # 59 ---------
+ sign of weakness, and sincerit
+y is always subject to proof. L
+et us never negotiate out of fe
+ar. But let us never fear to ne
+gotiate.Let both sides explore 
+what problems unite us instead 
+of belaboring these problems wh
+ich divide us.Let both sides, f
+or the first time, formulate se
+rious and precise proposals for
+ the inspection and control of 
+arms--and bring the absolute po
+wer to destroy other nations un
+der the absolute control of all
+ nations.Let both sides seek to
+---------- BLOCK # 60 ---------
+ invoke the wonders of science 
+instead of its terrors. Togethe
+r let us explore the stars, con
+quer the deserts, eradicate dis
+ease, tap the ocean depths, and
+ encourage the arts and commerc
+e.Let both sides unite to heed 
+in all corners of the earth the
+ command of Isaiah--to "undo th
+e heavy burdens [and] let the o
+ppressed go free."And if a beac
+hhead of cooperation may push b
+ack the jungle of suspicion, le
+t both sides join in creating a
+ new endeavor, not a new balanc
+---------- BLOCK # 61 ---------
+e of power, but a new world of 
+law, where the strong are just 
+and the weak secure and the pea
+ce preserved. All this will not
+ be finished in the first one h
+undred days. Nor will it finish
+ed in the first one thousand da
+ys, nor in the life of this adm
+inistration, nor even perhaps i
+n our lifetime on this planet. 
+But let us begin.In your hands,
+ my fellow citizens, more than 
+mine, will rest the final succe
+ss or failure of our course. Si
+nce this country was founded, e
+---------- BLOCK # 62 ---------
+ach generation of Americans has
+ been summoned to give testimon
+y to its national loyalty. The 
+graves of young Americans who a
+nswered the call to service sur
+round the globe.Now the trumpet
+ summons us again--not as a cal
+l to bear arms, though arms we 
+need--not as a call to battle, 
+though embattled we are --but a
+s a call to bear the burden of 
+a long twilight struggle, year 
+in year out, "rejoicing in hope
+, patient in tribulation"--a st
+ruggle against the common enemi
+---------- BLOCK # 63 ---------
+es of man: tyranny, poverty, di
+sease, and war itself.Can we fo
+rge against these enemies a gra
+nd and global alliance, North a
+nd South, East and West, that c
+an assure a more fruitful life 
+for all mankind? Will you join 
+in that historic effort?In the 
+long history of the world, only
+ a few generations have been gr
+anted the role of defending fre
+edom in its hour of maximum dan
+ger. I do not shrink from this 
+responsibility--I welcome it. I
+ do not believe that any of us 
+---------- BLOCK # 64 ---------
+would exchange places with any 
+other people of any other gener
+ation. The energy, the faith, t
+he devotion which we bring to t
+his endeavor will light our cou
+ntry and all who serve it--and 
+the glow from that fire can tru
+ly light the world.And so, my f
+ellow Americans: ask not what y
+our country can do for you--ask
+ what you can do for your count
+ry.My fellow citizens of the wo
+rld: ask not what America will 
+do for you, but together what w
+e can do for the freedom of man
+---------- BLOCK # 65 ---------
+.Finally, whether you are citiz
+ens of America or citizens of t
+he world, ask of us here the sa
+me high standards of strength a
+nd sacrifice which we ask of yo
+u. With a good conscience our o
+nly sure reward, with history t
+he final judge of our deeds, le
+t us go forth to lead the land 
+we love, asking His blessing an
+d His help, but knowing that he
+re on earth God's work must tru
+ly be our own.                 
+                               
+                               
+---------- BLOCK # 66 ---------
+Blocks Assigned: 0             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0:               
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr:               
+---------- BLOCK # 67 ---------
+Blocks Assigned: 8             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 68            
+Block Address 1: 69            
+Block Address 2: 70            
+Block Address 3: 71            
+Block Address 4: 72            
+Block Address 5: 73            
+Block Address 6: 74            
+Block Address 7: 75            
+Next iNode Addr: 76            
+---------- BLOCK # 68 ---------
+We observe today not a victory 
+of party but a celebration of f
+reedom-- symbolizing an end as 
+well as a beginning--signifying
+ renewal as well as change. For
+ I have sworn before you and Al
+mighty God the same solemn oath
+ our forebears prescribed nearl
+y a century and three quarters 
+ago.The world is very different
+ now. For man holds in his mort
+al hands the power to abolish a
+ll forms of human poverty and a
+ll forms of human life. And yet
+ the same revolutionary beliefs
+---------- BLOCK # 69 ---------
+ for which our forebears fought
+ are still at issue around the 
+globe--the belief that the righ
+ts of man come not from the gen
+erosity of the state but from t
+he hand of God.We dare not forg
+et today that we are the heirs 
+of that first revolution. Let t
+he word go forth from this time
+ and place, to friend and foe a
+like, that the torch has been p
+assed to a new generation of Am
+ericans--born in this century, 
+tempered by war, disciplined by
+ a hard and bitter peace, proud
+---------- BLOCK # 70 ---------
+ of our ancient heritage--and u
+nwilling to witness or permit t
+he slow undoing of those human 
+rights to which this nation has
+ always been committed, and to 
+which we are committed today at
+ home and around the world.Let 
+every nation know, whether it w
+ishes us well or ill, that we s
+hall pay any price, bear any bu
+rden, meet any hardship, suppor
+t any friend, oppose any foe, t
+o assure the survival and the s
+uccess of liberty. This much we
+ pledge--and more.To those old 
+---------- BLOCK # 71 ---------
+allies whose cultural and spiri
+tual origins we share, we pledg
+e the loyalty of faithful frien
+ds. United, there is little we 
+cannot do in a host of cooperat
+ive ventures. Divided, there is
+ little we can do--for we dare 
+not meet a powerful challenge a
+t odds and split asunder.To tho
+se new states whom we welcome t
+o the ranks of the free, we ple
+dge our word that one form of c
+olonial control shall not have 
+passed away merely to be replac
+ed by a far more iron tyranny. 
+---------- BLOCK # 72 ---------
+We shall not always expect to f
+ind them supporting our view. B
+ut we shall always hope to find
+ them strongly supporting their
+ own freedom--and to remember t
+hat in the past, those who fool
+ishly sought power by riding th
+e back of the tiger ended up in
+side.To those peoples in the hu
+ts and villages of half the glo
+be struggling to break the bond
+s of mass misery, we pledge our
+ best efforts to help them help
+ themselves, for whatever perio
+d is required--not because the 
+---------- BLOCK # 73 ---------
+Communists may be doing it, not
+ because we seek their votes, b
+ut because it is right. If a fr
+ee society cannot help the many
+ who are poor, it cannot save t
+he few who are rich.To our sist
+er republics south of our borde
+r, we offer a special pledge --
+to convert our good words into 
+good deeds--in a new alliance f
+or progress--to assist free men
+ and free governments in castin
+g off the chains of poverty. Bu
+t this peaceful revolution of h
+ope cannot become the prey of h
+---------- BLOCK # 74 ---------
+ostile powers. Let all our neig
+hbors know that we shall join w
+ith them to oppose aggression o
+r subversion anywhere in the Am
+ericas. And let every other pow
+er know that this hemisphere in
+tends to remain the master of i
+ts own house.To that world asse
+mbly of sovereign states, the U
+nited Nations, our last best ho
+pe in an age where the instrume
+nts of war have far outpaced th
+e instruments of peace, we rene
+w our pledge of support--to pre
+vent it from becoming merely a 
+---------- BLOCK # 75 ---------
+forum for invective--to strengt
+hen its shield of the new and t
+he weak--and to enlarge the are
+a in which its writ may run.Fin
+ally, to those nations who woul
+d make themselves our adversary
+, we offer not a pledge but a r
+equest: that both sides begin a
+new the quest for peace, before
+ the dark powers of destruction
+ unleashed by science engulf al
+l humanity in planned or accide
+ntal self-destruction.We dare n
+ot tempt them with weakness. Fo
+r only when our arms are suffic
+---------- BLOCK # 76 ---------
+Blocks Assigned: 8             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 77            
+Block Address 1: 78            
+Block Address 2: 79            
+Block Address 3: 80            
+Block Address 4: 81            
+Block Address 5: 82            
+Block Address 6: 83            
+Block Address 7: 84            
+Next iNode Addr:               
+---------- BLOCK # 77 ---------
+ient beyond doubt can we be cer
+tain beyond doubt that they wil
+l never be employed.But neither
+ can two great and powerful gro
+ups of nations take comfort fro
+m our present course--both side
+s overburdened by the cost of m
+odern weapons, both rightly ala
+rmed by the steady spread of th
+e deadly atom, yet both racing 
+to alter that uncertain balance
+ of terror that stays the hand 
+of mankind's final war.So let u
+s begin anew--remembering on bo
+th sides that civility is not a
+---------- BLOCK # 78 ---------
+ sign of weakness, and sincerit
+y is always subject to proof. L
+et us never negotiate out of fe
+ar. But let us never fear to ne
+gotiate.Let both sides explore 
+what problems unite us instead 
+of belaboring these problems wh
+ich divide us.Let both sides, f
+or the first time, formulate se
+rious and precise proposals for
+ the inspection and control of 
+arms--and bring the absolute po
+wer to destroy other nations un
+der the absolute control of all
+ nations.Let both sides seek to
+---------- BLOCK # 79 ---------
+ invoke the wonders of science 
+instead of its terrors. Togethe
+r let us explore the stars, con
+quer the deserts, eradicate dis
+ease, tap the ocean depths, and
+ encourage the arts and commerc
+e.Let both sides unite to heed 
+in all corners of the earth the
+ command of Isaiah--to "undo th
+e heavy burdens [and] let the o
+ppressed go free."And if a beac
+hhead of cooperation may push b
+ack the jungle of suspicion, le
+t both sides join in creating a
+ new endeavor, not a new balanc
+---------- BLOCK # 80 ---------
+e of power, but a new world of 
+law, where the strong are just 
+and the weak secure and the pea
+ce preserved. All this will not
+ be finished in the first one h
+undred days. Nor will it finish
+ed in the first one thousand da
+ys, nor in the life of this adm
+inistration, nor even perhaps i
+n our lifetime on this planet. 
+But let us begin.In your hands,
+ my fellow citizens, more than 
+mine, will rest the final succe
+ss or failure of our course. Si
+nce this country was founded, e
+---------- BLOCK # 81 ---------
+ach generation of Americans has
+ been summoned to give testimon
+y to its national loyalty. The 
+graves of young Americans who a
+nswered the call to service sur
+round the globe.Now the trumpet
+ summons us again--not as a cal
+l to bear arms, though arms we 
+need--not as a call to battle, 
+though embattled we are --but a
+s a call to bear the burden of 
+a long twilight struggle, year 
+in year out, "rejoicing in hope
+, patient in tribulation"--a st
+ruggle against the common enemi
+---------- BLOCK # 82 ---------
+es of man: tyranny, poverty, di
+sease, and war itself.Can we fo
+rge against these enemies a gra
+nd and global alliance, North a
+nd South, East and West, that c
+an assure a more fruitful life 
+for all mankind? Will you join 
+in that historic effort?In the 
+long history of the world, only
+ a few generations have been gr
+anted the role of defending fre
+edom in its hour of maximum dan
+ger. I do not shrink from this 
+responsibility--I welcome it. I
+ do not believe that any of us 
+---------- BLOCK # 83 ---------
+would exchange places with any 
+other people of any other gener
+ation. The energy, the faith, t
+he devotion which we bring to t
+his endeavor will light our cou
+ntry and all who serve it--and 
+the glow from that fire can tru
+ly light the world.And so, my f
+ellow Americans: ask not what y
+our country can do for you--ask
+ what you can do for your count
+ry.My fellow citizens of the wo
+rld: ask not what America will 
+do for you, but together what w
+e can do for the freedom of man
+---------- BLOCK # 84 ---------
+.Finally, whether you are citiz
+ens of America or citizens of t
+he world, ask of us here the sa
+me high standards of strength a
+nd sacrifice which we ask of yo
+u. With a good conscience our o
+nly sure reward, with history t
+he final judge of our deeds, le
+t us go forth to lead the land 
+we love, asking His blessing an
+d His help, but knowing that he
+re on earth God's work must tru
+ly be our own.                 
+                               
+                               
+---------- BLOCK # 85 ---------
+Blocks Assigned: 9             
+      File Size: 4026          
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 86            
+Block Address 1: 87            
+Block Address 2: 88            
+Block Address 3: 89            
+Block Address 4: 90            
+Block Address 5: 91            
+Block Address 6: 92            
+Block Address 7: 93            
+Next iNode Addr: 94            
+---------- BLOCK # 86 ---------
+That this House welcomes the fo
+rmation of a Government represe
+nting the united and inflexible
+ resolve of the nation to prose
+cute the war with Germany to a 
+victorious conclusion.On Friday
+ evening last I received His Ma
+jesty's commission to form a ne
+w Administration. It as the evi
+dent wish and will of Parliamen
+t and the nation that this shou
+ld be conceived on the broadest
+ possible basis and that it sho
+uld include all parties, both t
+hose who supported the late Gov
+---------- BLOCK # 87 ---------
+ernment and also the parties of
+ the Opposition. I have complet
+ed the most important part of t
+his task. A War Cabinet has bee
+n formed of five Members, repre
+senting, with the Opposition Li
+berals, the unity of the nation
+. The three party Leaders have 
+agreed to serve, either in the 
+War Cabinet or in high executiv
+e office. The three Fighting Se
+rvices have been filled. It was
+ necessary that this should be 
+done in one single day, on acco
+unt of the extreme urgency and 
+---------- BLOCK # 88 ---------
+rigour of events. A number of o
+ther positions, key positions, 
+were filled yesterday, and I am
+ submitting a further list to H
+is Majesty to-night. I hope to 
+complete the appointment of the
+ principal Ministers during to-
+morrow. The appointment of the 
+other Ministers usually takes a
+ little longer, but I trust tha
+t, when Parliament meets again,
+ this part of my task will be c
+ompleted, and that the administ
+ration will be complete in all 
+respects. I considered it in th
+---------- BLOCK # 89 ---------
+e public interest to suggest th
+at the House should be summoned
+ to meet today. Mr. Speaker agr
+eed, and took the necessary ste
+ps, in accordance with the powe
+rs conferred upon him by the Re
+solution of the House. At the e
+nd of the proceedings today, th
+e Adjournment of the House will
+ be proposed until Tuesday, 21s
+t May, with, of course, provisi
+on for earlier meeting, if need
+ be. The business to be conside
+red during that week will be no
+tified to Members at the earlie
+---------- BLOCK # 90 ---------
+st opportunity. I now invite th
+e House, by the Motion which st
+ands in my name, to record its 
+approval of the steps taken and
+ to declare its confidence in t
+he new Government.To form an Ad
+ministration of this scale and 
+complexity is a serious underta
+king in itself, but it must be 
+remembered that we are in the p
+reliminary stage of one of the 
+greatest battles in history, th
+at we are in action at many oth
+er points in Norway and in Holl
+and, that we have to be prepare
+---------- BLOCK # 91 ---------
+d in the Mediterranean, that th
+e air battle is continuous and 
+that many preparations, such as
+ have been indicated by my hon.
+ Friend below the Gangway, have
+ to be made here at home. In th
+is crisis I hope I may be pardo
+ned if I do not address the Hou
+se at any length today. I hope 
+that any of my friends and coll
+eagues, or former colleagues, w
+ho are affected by the politica
+l reconstruction, will make all
+owance, all allowance, for any 
+lack of ceremony with which it 
+---------- BLOCK # 92 ---------
+has been necessary to act. I wo
+uld say to the House, as I said
+ to those who have joined this 
+government: "I have nothing to 
+offer but blood, toil, tears an
+d sweat."We have before us an o
+rdeal of the most grievous kind
+. We have before us many, many 
+long months of struggle and of 
+suffering. You ask, what is our
+ policy? I can say: It is to wa
+ge war, by sea, land and air, w
+ith all our might and with all 
+the strength that God can give 
+us; to wage war against a monst
+---------- BLOCK # 93 ---------
+rous tyranny, never surpassed i
+n the dark, lamentable catalogu
+e of human crime. That is our p
+olicy. You ask, what is our aim
+? I can answer in one word: It 
+is victory, victory at all cost
+s, victory in spite of all terr
+or, victory, however long and h
+ard the road may be; for withou
+t victory, there is no survival
+. Let that be realised; no surv
+ival for the British Empire, no
+ survival for all that the Brit
+ish Empire has stood for, no su
+rvival for the urge and impulse
+---------- BLOCK # 94 ---------
+Blocks Assigned: 1             
+      File Size: 0             
+File Attributes                
+File Attributes                
+File Attributes                
+File Attributes                
+Block Address 0: 95            
+Block Address 1:               
+Block Address 2:               
+Block Address 3:               
+Block Address 4:               
+Block Address 5:               
+Block Address 6:               
+Block Address 7:               
+Next iNode Addr:               
+---------- BLOCK # 95 ---------
+ of the ages, that mankind will
+ move forward towards its goal.
+ But I take up my task with buo
+yancy and hope. I feel sure tha
+t our cause will not be suffere
+d to fail among men. At this ti
+me I feel entitled to claim the
+ aid of all, and I say, "come t
+hen, let us go forward together
+ with our united strength."    
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 96 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 97 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 98 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK # 99 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #100 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #101 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #102 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #103 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #104 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #105 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #106 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #107 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #108 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #109 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #110 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #111 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #112 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #113 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #114 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #115 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #116 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #117 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #118 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #119 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #120 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #121 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #122 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #123 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #124 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #125 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #126 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+---------- BLOCK #127 ---------
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
