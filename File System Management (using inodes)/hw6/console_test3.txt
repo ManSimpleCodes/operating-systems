@@ -1,0 +1,5 @@
+STARTING PROGRAM
+System Call: CRET myfile_3
+System Call: COPY churchil myfile_3
+***********************************
+ENDED PROGRAM - Open disk.txt to see contents of the file system......
