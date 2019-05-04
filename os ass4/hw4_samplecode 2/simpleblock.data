@@ -1,4 +1,0 @@
-process 1 arrive 2 estTime 5
-process 2 arrive 2 estTime 5 block 1 2
-process 3 arrive 2 estTime 5
-process 4 arrive 2 estTime 5
